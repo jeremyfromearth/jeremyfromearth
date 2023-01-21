@@ -12,6 +12,5 @@ https://linktr.ee/jeremyfromearth
   - Various Machine Learning Experiments
 - 🌱 I’m currently learning Google Cloud Platform
 - 👯 I’m looking to collaborate on founding an AI startup
-- 📫 How to reach me: jeremy@scibeam.co
 
 # 🖖🏻
