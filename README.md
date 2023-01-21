@@ -1,5 +1,4 @@
-# Hi Friend(s) 👋
-
+## Hello 🤘🏻
 I grew up in a small logging town, near the Pacific Ocean in Oregon and now I live in Vienna, Austria. Before becoming a Software Engineer, I operated my own recording studio in Portland and worked in record and instrument shops.
 
 I write articles about [music, programming, software, machine learning, natural language processing and signal processing on Medium](https://medium.com/@jeremyfromearth/one-a-day-one-liners-with-python-2b2147611c6)
