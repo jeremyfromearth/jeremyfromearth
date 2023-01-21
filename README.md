@@ -11,7 +11,7 @@ https://linktr.ee/jeremyfromearth
   - [One a Day One Liners with Python](https://github.com/jeremyfromearth/one-a-day-one-liners-python)
   - Various Machine Learning Experiments
 - 🌱 I’m currently learning Google Cloud Platform
-- 👯 I’m looking to collaborate on starting an AI startup
+- 👯 I’m looking to collaborate on founding an AI startup
 - 📫 How to reach me: jeremy@scibeam.co
 
 # 🖖🏻
