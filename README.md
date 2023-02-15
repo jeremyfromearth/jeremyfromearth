@@ -8,7 +8,7 @@ https://linktr.ee/jeremyfromearth
 
 - 🔭 I’m currently working on:
   - [A Music Sequencer Inspired by Evolution](https://jeremyfromearth.medium.com/new-project-genome-audio-tool-2bc7da4f2723)
-  - [One a Day One Liners with Python](https://medium.com/@jeremyfromearth/one-a-day-one-liners-with-python-2b2147611c6)
+  - [One a Day One Liners with Python](https://github.com/jeremyfromearth/one-a-day-one-liners-python)
   - Various Machine Learning Experiments
 - 🌱 I’m currently learning Google Cloud Platform
 - 👯 I’m looking to collaborate on founding an AI startup
