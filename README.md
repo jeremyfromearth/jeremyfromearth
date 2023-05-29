@@ -1,7 +1,5 @@
-## Hola
-I grew up in a small logging town near the Pacific Ocean in Oregon. Now I live in Vienna, Austria. Before becoming a Software Engineer, I operated my own recording studio in Portland and worked in record and instrument shops.
-
-I write articles about [music, programming, software, machine learning, natural language processing and signal processing on Medium](https://medium.com/@jeremyfromearth)
+## Hello
+I am a Software Engineer living and working in Vienna, Austria. My main area of interest these days is Artificial Intelligence and Machine Learning, though I have worked on quite a [variety of projects over the course of my 15 year career](https://jeremyfromearth.com/) in Software Engineering. [Sometimes I write articles about music, programming, software, machine learning, natural language processing and signal processing.](https://medium.com/@jeremyfromearth)
 
 My links:
 https://linktr.ee/jeremyfromearth
