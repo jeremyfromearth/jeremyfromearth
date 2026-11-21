@@ -1,5 +1,5 @@
 ## Hello
-I am a Software Engineer living and working somewhere on Plane Earth.
+I am a Software Engineer living and working somewhere on Planet Earth.
 
 My links:
 https://jeremyfromearth.com
